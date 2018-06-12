@@ -14,4 +14,4 @@ A WebAssembly runtime for all languages.
 - [ ] Create specialized error handler
 
 ### What are the technologies used?
-* [LLVM 7.0](http://releases.llvm.org/download.html) - is a library that is used to construct, optimize and produce intermediate and/or binary machine code.
+* [LLVM 7.0](http://releases.llvm.org/download.html) - a library that is used to construct, optimize and produce intermediate and/or binary machine code.
