@@ -13,7 +13,7 @@ A WebAssembly runtime for all languages.
 - [ ] Conform with [Wasm MVP specification](https://webassembly.github.io/spec/)
 - [ ] Implement JIT Engine
 - [ ] Add support for AOT compilation and dynamic linking
-- [ ] Provide hooks underlying environment (syscalls)
+- [ ] Provide hooks to underlying environment (some syscalls)
 - [ ] Incorporate incremental and concurrent compilation
 - [ ] Create specialized error handler
 - [ ] Add language interop mechanismsmechanisms
