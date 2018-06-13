@@ -1,7 +1,7 @@
 # Wave
 A WebAssembly runtime for all languages.
 
-### Installation
+### How do I install it?
 ##### _USERS_
 ##### _DEVELOPERS_
 
@@ -14,10 +14,10 @@ A WebAssembly runtime for all languages.
 - [ ] Implement JIT Engine
 - [ ] Add support for AOT compilation and dynamic linking
 - [ ] Provide hooks to underlying environment (some syscalls)
-- [ ] Incorporate incremental and concurrent compilation
+- [ ] Incorporate incremental and asynchronous compilation
 - [ ] Create specialized error handler
-- [ ] Add language interop mechanismsmechanisms
+- [ ] Add language interop mechanisms
 - [ ] Implement important wasm features that are in waiting list
 
 ### What are the technologies used?
-* [LLVM 7.0](http://releases.llvm.org/download.html) - a library that is used to construct, optimize and produce intermediate and/or binary machine code.
+* [LLVM 7.0](http://releases.llvm.org/download.html) - a library that constructs, optimizes and produces intermediate and/or binary machine code.
