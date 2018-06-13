@@ -1,7 +1,7 @@
 #if !defined(LEXER_H)
 #define LEXER_H
 
-#include "./wasm-lexer.cpp"
+#include "./lexer.cpp"
 #include "iostream"
 
 void Lexer::foo() {

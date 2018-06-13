@@ -1,4 +1,4 @@
-#include "./wasm-lexer.h"
+#include "./lexer.h"
 
 int main() {
     Lexer::foo();
